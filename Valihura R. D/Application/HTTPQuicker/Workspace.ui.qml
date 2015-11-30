@@ -1,7 +1,7 @@
 import QtQuick 2.4
 import QtQuick.Controls 1.3
 import QtWebKit 3.0
-//131 - Баюрський)
+
 Rectangle {
     property alias send: send
     property alias url: url.text
